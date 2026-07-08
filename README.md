@@ -85,7 +85,7 @@ Amazon-Data-Analysis/
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 1. Data Collection
 2. Data Cleaning
@@ -95,7 +95,7 @@ Amazon-Data-Analysis/
 6. Tableau Dashboard
 7. Business Insights
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone this repository.
 2. Install the required libraries.
