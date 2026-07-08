@@ -189,7 +189,9 @@ The project includes SQL queries for:
 
 Final Year B.Tech (Computer Science & Engineering)
 
-Aspiring Data Analyst | Python | SQL | Tableau
+Aspiring Data Analyst
+
+Skills: Python | SQL | Tableau | Excel | Git | GitHub
 
 ---
 
